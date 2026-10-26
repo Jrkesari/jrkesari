@@ -15,8 +15,8 @@ Right now I'm building an enterprise agent platform end to end:
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jrkesari/Jrkesari/output/metrics/overview.svg" alt="Contribution calendar, streak and languages" width="49%">
-  <img src="https://raw.githubusercontent.com/Jrkesari/Jrkesari/output/metrics/habits.svg" alt="Most active day and hour, commits by weekday and hour" width="49%">
+  <img src="https://raw.githubusercontent.com/Jrkesari/jrkesari/output/metrics/overview.svg" alt="Contribution calendar, streak and languages" width="49%">
+  <img src="https://raw.githubusercontent.com/Jrkesari/jrkesari/output/metrics/habits.svg" alt="Most active day and hour, commits by weekday and hour" width="49%">
 </p>
 
 <sub>Open to conversations about agent architecture, evaluation and running LLM systems in production. Stats refresh daily.</sub>
